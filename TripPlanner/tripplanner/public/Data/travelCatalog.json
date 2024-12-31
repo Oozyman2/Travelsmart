@@ -1,0 +1,7 @@
+[
+    { "id": 1, "destination": "Paris", "price": 1200, "rating": 4.5 },
+    { "id": 2, "destination": "New York", "price": 1500, "rating": 4.8 },
+    { "id": 3, "destination": "Tokyo", "price": 1100, "rating": 4.7 },
+    { "id": 4, "destination": "London", "price": 1300, "rating": 4.6 },
+    { "id": 5, "destination": "Sydney", "price": 1400, "rating": 4.9 }
+  ]
